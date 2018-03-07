@@ -45,5 +45,3 @@ def winner(board)
   else
   end
 end
-
-def play
