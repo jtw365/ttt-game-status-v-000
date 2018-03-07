@@ -44,4 +44,6 @@ def winner(board)
   board[win_combo[0]]
   else
   end
-  
+end
+
+def play
